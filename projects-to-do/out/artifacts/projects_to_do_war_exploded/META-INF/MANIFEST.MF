@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: omii
+Build-Jdk: version 11.0.11
+Implementation-Title: projects-to-do
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.projects
+Main-Class: ${start-class}
+
